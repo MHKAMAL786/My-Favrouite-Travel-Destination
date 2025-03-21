@@ -1,0 +1,68 @@
+*
+{
+    background-color: lightblue;
+}
+
+h1
+{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+p
+{
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+    
+}
+
+h2
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
+ol
+{
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 10px;
+}
+
+ul
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 10px;
+}
+
+table
+{
+    border: 200px;
+    background-color: black;
+}
+
+th
+{
+    font-style: oblique;
+}
+
+td
+{
+    font-variant: inherit;
+    font-style: oblique;
+    font-size: larger;
+    font-weight: bold;
+}
+#td
+{
+    background-color: brown;
+}
+
+button:hover
+{
+    cursor: pointer;
+   
+   
+}
